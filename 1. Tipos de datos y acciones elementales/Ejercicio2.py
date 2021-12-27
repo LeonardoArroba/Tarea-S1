@@ -24,3 +24,4 @@ print(type(ejer4))
 
 ejer5 = ((8 > 2) | (932 < 23) ) % 4 == 2
 print(ejer5)
+print(type(ejer5))
